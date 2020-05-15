@@ -90,10 +90,6 @@ github.com/edsrzf/mmap-go v1.0.0/go.mod h1:YO35OhQPt3KJa3ryjFM5Bs14WD66h8eGKpfaB
 github.com/envoyproxy/go-control-plane v0.6.9/go.mod h1:SBwIajubJHhxtWwsL9s8ss4safvEdbitLhGGK48rN6g=
 github.com/envoyproxy/go-control-plane v0.9.1-0.20191026205805-5f8ba28d4473/go.mod h1:YTl/9mNaCwkRvm6d1a2C3ymFceY/DCBVvsKhRF0iEA4=
 github.com/envoyproxy/protoc-gen-validate v0.1.0/go.mod h1:iSmxcyjqTsJpI2R4NaDN7+kN2VEUnK/pcBlmesArF7c=
-github.com/evdatsion/ed25519 v0.0.0-20200515092519-6fda37942444 h1:6SucV/qRRVY3VJEGafS0J/Crs/s0orQos0oLPNH9d64=
-github.com/evdatsion/ed25519 v0.0.0-20200515092519-6fda37942444/go.mod h1:OvFMZ7w5PVuAsRXzJdyoorspjmvA+iGNp5+Ph1btix0=
-github.com/evdatsion/sha256-simd v0.0.0-20200514174108-5e856a2203f9 h1:HZ4Us/nS3DNqg4HZq6WIhnQek/Ih39ENgq5jWmCMvWc=
-github.com/evdatsion/sha256-simd v0.0.0-20200514174108-5e856a2203f9/go.mod h1:r77bxufezDXMwAjZlzFrpC2Q4fDW5Qi/kGp4M3cKgzI=
 github.com/fatih/color v1.7.0/go.mod h1:Zm6kSWBoL9eyXnKyktHP6abPY2pDugNf5KwzbycvMj4=
 github.com/franela/goblin v0.0.0-20200105215937-c9ffbefa60db/go.mod h1:7dvUGVsVBjqR7JHJk0brhHOZYGmfBYOrK0ZhYMEtBr4=
 github.com/franela/goreq v0.0.0-20171204163338-bcd34c9993f8/go.mod h1:ZhphrRTfi2rbfLwlschooIH4+wKKDR4Pdxhh+TRoA20=
@@ -218,8 +214,10 @@ github.com/kr/pretty v0.1.0/go.mod h1:dAy3ld7l9f0ibDNOQOHHMYYIIbhfbHSm3C4ZsoJORN
 github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
 github.com/kr/text v0.1.0 h1:45sCR5RtlFHMR4UwH9sdQ5TC8v0qDQCHnXt+kaKSTVE=
 github.com/kr/text v0.1.0/go.mod h1:4Jbv+DJW3UT/LiOwJeYQe1efqtUx/iVham/4vfdArNI=
-github.com/libonomy/ed25519 v0.0.0-20200515101851-649c961ff54f h1:Cvw3k2ZBWcCX1tnlJDzcNksshNRU5RUmykYGLRpcFJc=
-github.com/libonomy/ed25519 v0.0.0-20200515101851-649c961ff54f/go.mod h1:UIjlAiC8OVBHCk7ut1z6E/eFyZyLmAzRlylirY/Nd9c=
+github.com/libonomy/ed25519 v0.0.0-20200515113020-867f8a7820c3 h1:T25PCqDoLRIgmgMaEiCHLk7KCiP234eUfzS7aZ10KV4=
+github.com/libonomy/ed25519 v0.0.0-20200515113020-867f8a7820c3/go.mod h1:UIjlAiC8OVBHCk7ut1z6E/eFyZyLmAzRlylirY/Nd9c=
+github.com/libonomy/sha256-simd v0.0.0-20200515114307-df94ecd9f4af h1:k+as91YFwyu7nDqH+l92WjeYV44Di7A4zlE1VL2ceCg=
+github.com/libonomy/sha256-simd v0.0.0-20200515114307-df94ecd9f4af/go.mod h1:qNAqBRFLWSiP+iFMFpiVpLmo9H6FRD/YzgRT0n5t+XA=
 github.com/lightstep/lightstep-tracer-common/golang/gogo v0.0.0-20190605223551-bc2310a04743/go.mod h1:qklhhLq1aX+mtWk9cPHPzaBjWImj5ULL6C7HFJtXQMM=
 github.com/lightstep/lightstep-tracer-go v0.18.1/go.mod h1:jlF1pusYV4pidLvZ+XD0UBX0ZE6WURAspgAczcDHrL4=
 github.com/lyft/protoc-gen-validate v0.0.13/go.mod h1:XbGvPuh87YZc5TdIa2/I4pLk0QoUACkjt2znoq26NVQ=

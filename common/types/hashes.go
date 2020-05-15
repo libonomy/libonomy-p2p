@@ -6,9 +6,9 @@ import (
 	"math/rand"
 	"reflect"
 
-	"github.com/evdatsion/sha256-simd"
 	"github.com/libonomy/libonomy-p2p/common/util"
 	"github.com/libonomy/libonomy-p2p/log"
+	"github.com/libonomy/sha256-simd"
 )
 
 const (
