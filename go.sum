@@ -214,8 +214,8 @@ github.com/kr/pretty v0.1.0/go.mod h1:dAy3ld7l9f0ibDNOQOHHMYYIIbhfbHSm3C4ZsoJORN
 github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
 github.com/kr/text v0.1.0 h1:45sCR5RtlFHMR4UwH9sdQ5TC8v0qDQCHnXt+kaKSTVE=
 github.com/kr/text v0.1.0/go.mod h1:4Jbv+DJW3UT/LiOwJeYQe1efqtUx/iVham/4vfdArNI=
-github.com/libonomy/ed25519 v0.0.0-20200515113020-867f8a7820c3 h1:T25PCqDoLRIgmgMaEiCHLk7KCiP234eUfzS7aZ10KV4=
-github.com/libonomy/ed25519 v0.0.0-20200515113020-867f8a7820c3/go.mod h1:UIjlAiC8OVBHCk7ut1z6E/eFyZyLmAzRlylirY/Nd9c=
+github.com/libonomy/ed25519 v0.0.0-20200515101851-649c961ff54f h1:Cvw3k2ZBWcCX1tnlJDzcNksshNRU5RUmykYGLRpcFJc=
+github.com/libonomy/ed25519 v0.0.0-20200515101851-649c961ff54f/go.mod h1:UIjlAiC8OVBHCk7ut1z6E/eFyZyLmAzRlylirY/Nd9c=
 github.com/libonomy/sha256-simd v0.0.0-20200515114307-df94ecd9f4af h1:k+as91YFwyu7nDqH+l92WjeYV44Di7A4zlE1VL2ceCg=
 github.com/libonomy/sha256-simd v0.0.0-20200515114307-df94ecd9f4af/go.mod h1:qNAqBRFLWSiP+iFMFpiVpLmo9H6FRD/YzgRT0n5t+XA=
 github.com/lightstep/lightstep-tracer-common/golang/gogo v0.0.0-20190605223551-bc2310a04743/go.mod h1:qklhhLq1aX+mtWk9cPHPzaBjWImj5ULL6C7HFJtXQMM=
