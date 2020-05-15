@@ -1,4 +1,4 @@
-module github.com/Libonomy/libonomy-p2p
+module github.com/libonomy/libonomy-p2p
 
 require (
 	github.com/btcsuite/btcd v0.20.1-beta
