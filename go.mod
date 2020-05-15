@@ -9,7 +9,7 @@ require (
 	github.com/golang/protobuf v1.4.2
 	github.com/google/uuid v1.1.1
 	github.com/huin/goupnp v1.0.0
-	github.com/libonomy/ed25519 v0.0.0-20200515101851-649c961ff54f
+	github.com/libonomy/ed25519 v0.0.0-20200515113020-867f8a7820c3
 	github.com/libonomy/sha256-simd v0.0.0-20200515114307-df94ecd9f4af
 	github.com/nullstyle/go-xdr v0.0.0-20180726165426-f4c839f75077
 	github.com/prometheus/client_golang v1.6.0
