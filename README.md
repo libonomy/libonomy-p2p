@@ -51,7 +51,7 @@ Before building we need to install `protoc` (ProtoBuf compiler) and some tools r
 ```bash
 make install
 ```
-This will invoke `setup_env.sh` which supports Linux . 
+This will invoke `setup_env.sh` which supports Linux and OSX. 
 The configurations for other platforms will be released soon.
 
 
