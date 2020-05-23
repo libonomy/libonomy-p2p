@@ -1,5 +1,5 @@
 
-Thank for visiting our open source project.
+Thank You for visiting our open source project.
 
 Libonomy is one of a kind blockchain which through innovation and creativity has achieved
 all the set goals with great success. The kind of innovation that attracts and reaches out to
@@ -67,4 +67,23 @@ This will (re-)generate protobuf files and build the `libonomoy-p2p` binary, sav
 
 Platform-specific binaries are saved to the `/build` directory.
 
----
+### Connection Establishment
+In order to connect to the p2p-simulater you need to provide the parameters for the network configuration which is explained below.
+The configuration file is named as sim_config.toml which you can find in the master branch.
+
+#### Simulater Configuration
+
+1. Navigate to build directory under libonomy-p2p after generating build of p2p simulater.
+2. Start the simulater with the command given below
+
+```bash
+./p2p-simulate --tcp-port 7152 --config ./sim_config.toml -d ./libo_data
+```
+As soon as you are done you will be connected to the p2p network.
+
+#### Upcoming Release
+- In the coming month we will be releasing the p2p light node for the community.
+- AI data extraction algorithm (minimal)
+- Wallet implementation in JS
+- Testnet Faucets
+- .....
