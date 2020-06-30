@@ -1,5 +1,6 @@
 
 Thank You for visiting our open source project.
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 Libonomy is one of a kind blockchain which through innovation and creativity has achieved
 all the set goals with great success. The kind of innovation that attracts and reaches out to
