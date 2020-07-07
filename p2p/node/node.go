@@ -58,7 +58,8 @@ func NewNode(id p2pcrypto.PublicKey, ip net.IP, proto, disc uint16) *Info {
 	}
 }
 
-/* NOTE: code below is from go-libonomy. modified for libonomy needs*/
+/* NOTE: code below is from go-ethereum.*/
+/* NOTE: modified according to libonomy-p2p simulater needs*/
 
 // Valid checks whether n is a valid complete node.
 func (n Info) Valid() error {
